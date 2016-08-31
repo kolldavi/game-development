@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2_Koller", "G2_Koller\G2_Koller\G2_Koller.csproj", "{D52A6749-5D1D-49CB-844B-F7A61C4D77DC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "G2_KollerContent", "G2_Koller\G2_KollerContent\G2_KollerContent.contentproj", "{51B03788-25D5-477F-969D-B41C487324A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52A6749-5D1D-49CB-844B-F7A61C4D77DC}.Debug|x86.ActiveCfg = Debug|x86
+		{D52A6749-5D1D-49CB-844B-F7A61C4D77DC}.Debug|x86.Build.0 = Debug|x86
+		{D52A6749-5D1D-49CB-844B-F7A61C4D77DC}.Release|x86.ActiveCfg = Release|x86
+		{D52A6749-5D1D-49CB-844B-F7A61C4D77DC}.Release|x86.Build.0 = Release|x86
+		{51B03788-25D5-477F-969D-B41C487324A8}.Debug|x86.ActiveCfg = Debug|x86
+		{51B03788-25D5-477F-969D-B41C487324A8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\911.xnb
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\start.xnb
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\Help.xnb
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\Help.wma
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\bin\x86\Debug\October 7th.exe
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\bin\x86\Debug\October 7th.pdb
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\obj\x86\Debug\October 7th.exe
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\obj\x86\Debug\October 7th.pdb
+S:\Grantcn\CPSC447\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\911.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\Help.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\bin\x86\Debug\Content\Audio\Help.wma
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\bin\x86\Debug\October 7th.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\bin\x86\Debug\October 7th.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\obj\x86\Debug\October 7th.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 7th\October 7th\October 7th\obj\x86\Debug\October 7th.pdb

@@ -1,0 +1,35 @@
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\HillLayer.xnb
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\SkyLayer.xnb
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.exe
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.pdb
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.exe
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.pdb
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\HillLayer.xnb
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\SkyLayer.xnb
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.exe
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.pdb
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.exe
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.pdb
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\2girls.xnb
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\HillLayer.xnb
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\SkyLayer.xnb
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\2girls.xnb
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.exe
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.pdb
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.exe
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\HillLayer.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\SkyLayer.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\2girls.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\P7 - Scrolling Backgrounds.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\obj\x86\Debug\P7 - Scrolling Backgrounds.pdb

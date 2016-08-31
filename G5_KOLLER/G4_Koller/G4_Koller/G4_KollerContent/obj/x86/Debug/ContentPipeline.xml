@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\point.png</Source>
+      <Name>Images\point</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\point.xnb</Output>
+      <Time>2011-10-07T15:57:34.973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\asteroid.png</Source>
+      <Name>Images\asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\asteroid.xnb</Output>
+      <Time>2011-10-07T16:24:13.425-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bonus.png</Source>
+      <Name>Images\bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\bonus.xnb</Output>
+      <Time>2011-10-07T16:30:37.245-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Spaceship.png</Source>
+      <Name>Images\Spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\Spaceship.xnb</Output>
+      <Time>2011-10-07T16:50:41.139-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\backgroundTexture.jpg</Source>
+      <Name>Images\backgroundTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\backgroundTexture.xnb</Output>
+      <Time>2011-10-07T17:00:31.063-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\smallSprite.jpg</Source>
+      <Name>Images\smallSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\smallSprite.xnb</Output>
+      <Time>2011-10-12T02:57:30.122-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpriteFont1.spritefont</Source>
+      <Name>Images\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\SpriteFont1.xnb</Output>
+      <Time>2011-10-07T17:02:49.519-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpriteFont2.spritefont</Source>
+      <Name>Images\SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Images\SpriteFont2.xnb</Output>
+      <Time>2011-10-12T03:42:25.371-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\space_oddity_converted.wav</Source>
+      <Name>Sound\space_oddity_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\space_oddity_converted.xnb</Output>
+      <Time>2011-10-18T11:56:54.973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\luckiest_converted.wav</Source>
+      <Name>Sound\luckiest_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\luckiest_converted.xnb</Output>
+      <Time>2011-10-18T11:56:17.829-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bubbles_sfx_converted.wav</Source>
+      <Name>Sound\bubbles_sfx_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\bubbles_sfx_converted.xnb</Output>
+      <Time>2011-10-18T11:57:35.063-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Cool_Background_Music.wav</Source>
+      <Name>Sound\Cool_Background_Music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\Cool_Background_Music.xnb</Output>
+      <Time>2011-10-18T11:58:34.045-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\exit_cue_y_converted.wav</Source>
+      <Name>Sound\exit_cue_y_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\exit_cue_y_converted.xnb</Output>
+      <Time>2011-10-18T12:01:19.558-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\coin_flip_converted.wav</Source>
+      <Name>Sound\coin_flip_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\coin_flip_converted.xnb</Output>
+      <Time>2011-10-18T12:01:50.612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion_x_converted.wav</Source>
+      <Name>Sound\explosion_x_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\explosion_x_converted.xnb</Output>
+      <Time>2011-10-18T12:02:29.916-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\phasers3_converted.wav</Source>
+      <Name>Sound\phasers3_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\phasers3_converted.xnb</Output>
+      <Time>2011-10-18T12:03:22.016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\womp_converted.wav</Source>
+      <Name>Sound\womp_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\Sound\womp_converted.xnb</Output>
+      <Time>2011-10-18T12:03:29.012-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_KollerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_KollerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_Koller\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-07T16:16:20.3309986-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

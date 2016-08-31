@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\bin\x86\Debug\Content\Images\chessboard.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\bin\x86\Debug\G1_Koller.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\bin\x86\Debug\G1_Koller.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\obj\x86\Debug\G1_Koller.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\obj\x86\Debug\G1_Koller.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\bin\x86\Debug\Content\Images\monkey.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G1_Koller\G1_Koller\G1_Koller\bin\x86\Debug\Content\Images\bananas.xnb

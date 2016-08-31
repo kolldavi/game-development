@@ -1,0 +1,4 @@
+C:\Users\grantcn\Documents\My Dropbox\Cyrus\_XNA\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling BackgroundsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\_447\August 2011\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling BackgroundsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Grantcn\CPSC447\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling BackgroundsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling BackgroundsContent\obj\x86\Debug\ResolveAssemblyReference.cache

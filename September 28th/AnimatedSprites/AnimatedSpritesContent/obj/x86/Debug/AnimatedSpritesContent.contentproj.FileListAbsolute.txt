@@ -1,0 +1,2 @@
+S:\Grantcn\CPSC447\September 28th\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\September 28th\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache

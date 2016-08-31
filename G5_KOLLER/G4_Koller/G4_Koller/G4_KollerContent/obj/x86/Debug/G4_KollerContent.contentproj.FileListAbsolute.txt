@@ -1,0 +1,2 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\G4_Koller\G4_Koller\G4_KollerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\G5_KOLLER\G4_Koller\G4_Koller\G4_KollerContent\obj\x86\Debug\ResolveAssemblyReference.cache

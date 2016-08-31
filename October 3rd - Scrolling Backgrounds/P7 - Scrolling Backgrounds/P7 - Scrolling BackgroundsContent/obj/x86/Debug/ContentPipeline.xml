@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\HillLayer.png</Source>
+      <Name>Images\HillLayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\HillLayer.xnb</Output>
+      <Time>2011-10-18T11:20:53.401-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SkyLayer.png</Source>
+      <Name>Images\SkyLayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\SkyLayer.xnb</Output>
+      <Time>2011-10-18T11:20:53.431-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\2girls.JPG</Source>
+      <Name>Images\2girls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\Images\2girls.xnb</Output>
+      <Time>2011-10-18T11:20:53.364-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling BackgroundsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling BackgroundsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\October 3rd - Scrolling Backgrounds\P7 - Scrolling Backgrounds\P7 - Scrolling Backgrounds\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-07T16:16:20.3309986-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

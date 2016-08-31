@@ -1,0 +1,2 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

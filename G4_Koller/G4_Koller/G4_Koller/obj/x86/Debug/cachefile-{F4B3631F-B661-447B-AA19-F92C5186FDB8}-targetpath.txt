@@ -1,0 +1,17 @@
+Content\Images\point.xnb
+Content\Images\asteroid.xnb
+Content\Images\bonus.xnb
+Content\Images\Spaceship.xnb
+Content\Images\backgroundTexture.xnb
+Content\Images\SpriteFont1.xnb
+Content\Images\smallSprite.xnb
+Content\Images\SpriteFont2.xnb
+Content\Sound\luckiest_converted.xnb
+Content\Sound\space_oddity_converted.xnb
+Content\Sound\bubbles_sfx_converted.xnb
+Content\Sound\Cool_Background_Music.xnb
+Content\Sound\exit_cue_y_converted.xnb
+Content\Sound\coin_flip_converted.xnb
+Content\Sound\explosion_x_converted.xnb
+Content\Sound\phasers3_converted.xnb
+Content\Sound\womp_converted.xnb

@@ -1,0 +1,3 @@
+Content\Images\chessboard.xnb
+Content\Images\monkey.xnb
+Content\Images\bananas.xnb

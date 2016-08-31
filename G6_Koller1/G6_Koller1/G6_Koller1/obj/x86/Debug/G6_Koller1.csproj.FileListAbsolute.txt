@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\bin\x86\Debug\Content\images\Box.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\bin\x86\Debug\G6_Koller1.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\bin\x86\Debug\G6_Koller1.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\obj\x86\Debug\G6_Koller1.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\obj\x86\Debug\G6_Koller1.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\bin\x86\Debug\Content\font\SpriteFont1.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\G6_Koller1\G6_Koller1\G6_Koller1\bin\x86\Debug\Content\font\SpriteFont2.xnb

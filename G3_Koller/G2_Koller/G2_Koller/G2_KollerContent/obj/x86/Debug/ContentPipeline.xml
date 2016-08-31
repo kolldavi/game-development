@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Grass.jpg</Source>
+      <Name>Images\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\Grass.xnb</Output>
+      <Time>2011-09-15T15:31:05.353-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tennis-Ball.png</Source>
+      <Name>Images\Tennis-Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\Tennis-Ball.xnb</Output>
+      <Time>2011-09-20T19:54:18.702-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\paddleHandle.png</Source>
+      <Name>Images\paddleHandle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\paddleHandle.xnb</Output>
+      <Time>2011-09-20T17:07:46.029-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\paddleHit.png</Source>
+      <Name>Images\paddleHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\paddleHit.xnb</Output>
+      <Time>2011-09-20T17:07:36.791-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\brick.jpg</Source>
+      <Name>Images\brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\brick.xnb</Output>
+      <Time>2011-09-20T22:32:48.896-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\StartPage.jpg</Source>
+      <Name>Images\StartPage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\StartPage.xnb</Output>
+      <Time>2011-09-28T19:23:23.001-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpriteFont1.spritefont</Source>
+      <Name>Images\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\SpriteFont1.xnb</Output>
+      <Time>2011-09-28T19:44:11.292-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\grayBack.jpg</Source>
+      <Name>Images\grayBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\grayBack.xnb</Output>
+      <Time>2011-09-28T19:55:57.597-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\me.jpg</Source>
+      <Name>Images\me</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Images\me.xnb</Output>
+      <Time>2011-09-29T18:59:33.766-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\hit.wav</Source>
+      <Name>Sound\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\Sound\hit.xnb</Output>
+      <Time>2011-10-01T13:30:53.804-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_KollerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_KollerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\G3_Koller\G2_Koller\G2_Koller\G2_Koller\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-07T16:16:20.3309986-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
